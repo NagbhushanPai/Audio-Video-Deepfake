@@ -38,7 +38,7 @@ pip install matplotlib==3.6.2
 pip install imageio==2.23.0
 pip install gdown==4.6.0
 pip install SpeechRecognition pydub moviepy jiwer
-'''
+
 
 
 Project Workflow
