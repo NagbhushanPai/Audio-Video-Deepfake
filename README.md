@@ -39,9 +39,10 @@ pip install imageio==2.23.0
 pip install gdown==4.6.0
 pip install SpeechRecognition pydub moviepy jiwer
 
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
+
+```
+
+
 
 
 
